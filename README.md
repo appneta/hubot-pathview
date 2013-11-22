@@ -2,7 +2,7 @@
 
 Display network path performance from PathView Cloud.
 
-[![Build Status](https://travis-ci.org/hubot-scripts/hubot-example.png)](https://travis-ci.org/hubot-scripts/hubot-example)
+[![Build Status](https://travis-ci.org/appneta/hubot-pathview.png)](https://travis-ci.org/appneta/hubot-pathview)
 
 ## Installation
 
