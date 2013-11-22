@@ -1,6 +1,6 @@
 # Hubot PathView
 
-Display network path performance from PathView Cloud.
+Display network path performance from [AppNeta PathView][1].
 
 [![Build Status](https://travis-ci.org/appneta/hubot-pathview.png)](https://travis-ci.org/appneta/hubot-pathview)
 
@@ -29,3 +29,5 @@ Add **hubot-pathview** to your `external-scripts.json`:
 ```
 
 Run `npm install`
+
+[1]: http://www.appneta.com/products/pathview/
