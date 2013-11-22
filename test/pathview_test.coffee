@@ -15,5 +15,5 @@ describe 'pathview', ->
   it 'registers a pathview listener', ->
     expect(@robot.respond).to.have.been.calledWith(/pathview me foo to bar/)
 
-  it 'registers a hear listener', ->
+  it 'registers a pvc listener', ->
     expect(@robot.respond).to.have.been.calledWith(/pvc me foo to bar/)
