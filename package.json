@@ -7,7 +7,10 @@
 
   "keywords": [
     "hubot",
-    "hubot-scripts"
+    "hubot-scripts",
+    "appneta",
+    "pathview",
+    "network"
   ],
 
   "repository": {
